@@ -3,6 +3,8 @@
 ## Overview
 This project provides an in-depth, interactive analysis of player performances for IPL 2025. It features a complete data pipeline, starting from data extraction and transformation using Python, through to complex data modeling and visualization in Power BI. 
 
+## Dataset Source
+The raw ball-by-ball and match data used for this analysis was sourced from [[Cricsheet](https://cricsheet.org/)]. The dataset was then parsed, cleaned, and transformed using Python (`ipl_2025.ipynb`) before being loaded into Power BI for modeling.
 
 ## Repository Contents
 * **`ipl_2025.ipynb`**: The Jupyter Notebook containing the data extraction, cleaning, and transformation logic using Pandas.
