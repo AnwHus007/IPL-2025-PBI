@@ -117,6 +117,6 @@ RETURN
 ![Dashboard View 3](IPL1p3.png)
 ![Dashboard View 4](IPL1p4.png)
 
-**Table Realationship**
+**Table Realationships**
 ![Dashboard View 5](IPL1p5.png)
 ![Dashboard View 6](IPL1p6.png)
