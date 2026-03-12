@@ -32,6 +32,8 @@ I was also able to replicate the official IPL 2025 stats
 **Player Preview**
 ![Dashboard View 3](IPL1p3.png)
 ![Dashboard View 4](IPL1p4.png)
+The Anomalous looking Economy Rate actually happened in Jadeja's match against KKR
+![Anomaly](Anomaly.png)
 
 **Table Realationships**
 ![Dashboard View 5](IPL1p5.png)
