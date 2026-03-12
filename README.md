@@ -15,6 +15,11 @@ The raw ball-by-ball and match data used for this analysis was sourced from [Cri
 
 ![Py View](Python%20Analysis.png)
 
+I was also able to replicate the official IPL 2025 stats
+![Mine]
+# Official:
+![Batting](Batting%20Top%205.png)
+![Bowling](Bowling%20Top%205.png)
 
 ## Dashboard Previews
 
