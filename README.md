@@ -13,7 +13,7 @@ The raw ball-by-ball and match data used for this analysis was sourced from [Cri
 
 ## Prelimiary Analysis
 
-![Py View](Python_Analysis.png)
+![Py View](Python%20Analysis.png)
 
 
 ## Dashboard Previews
